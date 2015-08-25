@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowLib", "FlowLib\FlowLib.csproj", "{4C9A3F81-7660-4170-8D6B-62C239922C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{6245D99E-319C-4B5F-BEA4-4881D48074B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug (Core only)|Any CPU = Debug (Core only)|Any CPU
+		Release (Core only)|Any CPU = Release (Core only)|Any CPU
+		Debug (GTK)|Any CPU = Debug (GTK)|Any CPU
+		Release (GTK)|Any CPU = Release (GTK)|Any CPU
+		Debug (Windows)|Any CPU = Debug (Windows)|Any CPU
+		Release (Windows)|Any CPU = Release (Windows)|Any CPU
+		Debug (Cocoa)|Any CPU = Debug (Cocoa)|Any CPU
+		Release (Cocoa)|Any CPU = Release (Cocoa)|Any CPU
+		Debug (Test)|Any CPU = Debug (Test)|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Debug (Cocoa)|Any CPU.ActiveCfg = Debug (Cocoa)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Debug (Cocoa)|Any CPU.Build.0 = Debug (Cocoa)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Debug (Core only)|Any CPU.ActiveCfg = Debug (Core only)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Debug (Core only)|Any CPU.Build.0 = Debug (Core only)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Debug (GTK)|Any CPU.ActiveCfg = Debug (GTK)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Debug (GTK)|Any CPU.Build.0 = Debug (GTK)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Debug (Test)|Any CPU.ActiveCfg = Debug (Test)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Debug (Test)|Any CPU.Build.0 = Debug (Test)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Debug (Windows)|Any CPU.ActiveCfg = Debug (Windows)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Debug (Windows)|Any CPU.Build.0 = Debug (Windows)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Release (Cocoa)|Any CPU.ActiveCfg = Release (Cocoa)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Release (Cocoa)|Any CPU.Build.0 = Release (Cocoa)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Release (Core only)|Any CPU.ActiveCfg = Release (Core only)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Release (Core only)|Any CPU.Build.0 = Release (Core only)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Release (GTK)|Any CPU.ActiveCfg = Release (GTK)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Release (GTK)|Any CPU.Build.0 = Release (GTK)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Release (Windows)|Any CPU.ActiveCfg = Release (Windows)|Any CPU
+		{4C9A3F81-7660-4170-8D6B-62C239922C89}.Release (Windows)|Any CPU.Build.0 = Release (Windows)|Any CPU
+		{6245D99E-319C-4B5F-BEA4-4881D48074B0}.Debug (Cocoa)|Any CPU.ActiveCfg = Debug (Cocoa)|Any CPU
+		{6245D99E-319C-4B5F-BEA4-4881D48074B0}.Debug (Core only)|Any CPU.ActiveCfg = Debug (Core only)|Any CPU
+		{6245D99E-319C-4B5F-BEA4-4881D48074B0}.Debug (GTK)|Any CPU.ActiveCfg = Debug (GTK)|Any CPU
+		{6245D99E-319C-4B5F-BEA4-4881D48074B0}.Debug (Test)|Any CPU.ActiveCfg = Debug (Test)|Any CPU
+		{6245D99E-319C-4B5F-BEA4-4881D48074B0}.Debug (Test)|Any CPU.Build.0 = Debug (Test)|Any CPU
+		{6245D99E-319C-4B5F-BEA4-4881D48074B0}.Debug (Windows)|Any CPU.ActiveCfg = Debug (Windows)|Any CPU
+		{6245D99E-319C-4B5F-BEA4-4881D48074B0}.Release (Cocoa)|Any CPU.ActiveCfg = Release (Cocoa)|Any CPU
+		{6245D99E-319C-4B5F-BEA4-4881D48074B0}.Release (Core only)|Any CPU.ActiveCfg = Release (Core only)|Any CPU
+		{6245D99E-319C-4B5F-BEA4-4881D48074B0}.Release (GTK)|Any CPU.ActiveCfg = Release (GTK)|Any CPU
+		{6245D99E-319C-4B5F-BEA4-4881D48074B0}.Release (Windows)|Any CPU.ActiveCfg = Release (Windows)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Debug (Cocoa)|Any CPU.ActiveCfg = Debug (Cocoa)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Debug (Cocoa)|Any CPU.Build.0 = Debug (Cocoa)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Debug (Core only)|Any CPU.ActiveCfg = Debug (Core only)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Debug (Core only)|Any CPU.Build.0 = Debug (Core only)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Debug (GTK)|Any CPU.ActiveCfg = Debug (GTK)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Debug (GTK)|Any CPU.Build.0 = Debug (GTK)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Debug (Test)|Any CPU.ActiveCfg = Debug (Test)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Debug (Test)|Any CPU.Build.0 = Debug (Test)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Debug (Windows)|Any CPU.ActiveCfg = Debug (Windows)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Debug (Windows)|Any CPU.Build.0 = Debug (Windows)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Release (Cocoa)|Any CPU.ActiveCfg = Release (Cocoa)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Release (Cocoa)|Any CPU.Build.0 = Release (Cocoa)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Release (Core only)|Any CPU.ActiveCfg = Release (Core only)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Release (Core only)|Any CPU.Build.0 = Release (Core only)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Release (GTK)|Any CPU.ActiveCfg = Release (GTK)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Release (GTK)|Any CPU.Build.0 = Release (GTK)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Release (Windows)|Any CPU.ActiveCfg = Release (Windows)|Any CPU
+		{A8A0C980-F2DD-4EF9-9DBC-536E8F4DD656}.Release (Windows)|Any CPU.Build.0 = Release (Windows)|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		description = Client and library for connecting to ZPoC network.
+		version = 3.0
+		StartupItem = Test\Test.csproj
+		Policies = $0
+		$0.StandardHeader = $1
+		$1.inheritsSet = LGPLv2License
+		$0.DotNetNamingPolicy = $2
+		$2.DirectoryNamespaceAssociation = None
+		$2.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.TabsToSpaces = False
+		$3.NoTabsAfterNonTabs = False
+		$3.RemoveTrailingWhitespace = False
+		$3.EolMarker = Native
+	EndGlobalSection
+EndGlobal

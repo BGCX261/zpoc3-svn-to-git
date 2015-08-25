@@ -1,0 +1,31 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ctype="Workbench">
+    <Files>
+      <File FileName="Connections/Hub.cs" Line="396" Column="13" />
+      <File FileName="Protocols/BaseProtocol.cs" Line="1" Column="1" />
+      <File FileName="Protocols/Zpoc/hubzpocmessages.cs" Line="1188" Column="35" />
+      <File FileName="Containers/HubSetting.cs" Line="54" Column="37" />
+      <File FileName="Containers/HubMessage.cs" Line="1" Column="1" />
+      <File FileName="Protocols/hubzpocprotocol.cs" Line="414" Column="18" />
+      <File FileName="Protocols/hubnmdcprotocol.cs" Line="678" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="FlowLib" expanded="True">
+            <Node name="Connections" expanded="True">
+              <Node name="Hub.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" ctype="Workspace" />
+</Properties>
